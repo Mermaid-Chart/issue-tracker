@@ -36,7 +36,7 @@ Please be patient, as resolution time may vary depending on the complexity of th
 
 ## Contributing
 
-We encourage customers to contribute by reporting issues, suggesting enhancements, and sharing solutions. By participating in this repository, you agree to abide by our Code of Conduct and follow our Contribution Guidelines.
+We encourage customers to contribute by reporting issues, suggesting enhancements, and sharing solutions. By participating in this repository, you agree to abide by our Code of Conduct.
 
 ## Support
 
